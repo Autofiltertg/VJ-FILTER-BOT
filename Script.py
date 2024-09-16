@@ -5,14 +5,9 @@
 
 class script(object):
     START_TXT = """<b><blockquote>Hᴇʟʟᴏ {}, I'ᴍ Fʀᴏᴍ <a href=https://t.me/MG_Networks</a></blockquote>
-    
-Iɴᴛʀᴏᴅᴜᴄɪɴɢ ᴛʜᴇ Uʟᴛɪᴍᴀᴛᴇ Aᴜᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ - Rᴇᴠᴏʟᴜᴛɪᴏɴɪᴢɪɴɢ Eғғɪᴄɪᴇɴᴄʏ! 🚀</b>
-
-     <blockquote>✨ Mʏ Fᴇᴀᴛᴜʀᴇs ⬎</blockquote>
-𝘼𝙙𝙫𝙖𝙣𝙘𝙚𝙙 𝘼𝙪𝙩𝙤 𝙁𝙞𝙡𝙩𝙚𝙧 𝘽𝙤𝙩, 𝘾𝙪𝙨𝙩𝙤𝙢 𝙐𝙍𝙇 𝙎𝙝𝙤𝙧𝙩𝙚𝙣𝙚𝙧🔗, 𝘼𝙄 𝙎𝙥𝙚𝙡𝙡 𝘾𝙝𝙚𝙘𝙠𝙚𝙧 📝,
-𝙒𝙖𝙩𝙘𝙝 𝙊𝙣𝙡𝙞𝙣𝙚 & 𝘿𝙤𝙬𝙣𝙡𝙤𝙖𝙙 🍿,
-𝘽𝙚𝙨𝙩 𝙐𝙄 𝙋𝙚𝙧𝙛𝙤𝙧𝙢𝙖𝙣𝙘𝙚 ⚡,
-𝘼𝙣𝙙 𝙈𝙤𝙧𝙚! """
+    Iɴᴛʀᴏᴅᴜᴄɪɴɢ ᴛʜᴇ Uʟᴛɪᴍᴀᴛᴇ Aᴜᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ - Rᴇᴠᴏʟᴜᴛɪᴏɴɪᴢɪɴɢ Eғғɪᴄɪᴇɴᴄʏ! 🚀</b>
+<blockquote>✨ Mʏ Fᴇᴀᴛᴜʀᴇs ⬎</blockquote>
+Aᴅᴠᴀɴᴄᴇᴅ Aᴜᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ, Cᴜsᴛᴏᴍ URL Sʜᴏʀᴛɴᴇʀ 🔗, AI Sᴘᴇʟʟ Cʜᴇᴄᴋ 📝, Wᴀᴛᴄʜ ᴏɴʟɪɴᴇ & Hɪɢʜ Sᴘᴇᴇᴅ Dɪʀᴇᴄᴛ Dᴏᴡɴʟᴏᴀᴅ 🍿, ᴀɴᴅ ᴍᴀɴʏ ᴍᴏʀᴇ ✨! """
     
     CLONE_START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a></blockquote>
     
